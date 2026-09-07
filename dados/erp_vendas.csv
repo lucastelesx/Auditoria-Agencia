@@ -1,0 +1,7 @@
+id_pedido,data_venda,produto,valor_real,metodo_pagamento,status_pagamento
+1001,2026-04-10,Cadeira Gamer RGB,899.90,PIX,Pago
+1002,2026-04-10,Sofá 3 Lugares,1500.00,Boleto,Cancelado
+1003,2026-04-11,Cadeira Gamer RGB,899.90,Cartao,Pago
+1004,2026-04-12,Mesa de Vidro 6 Lugares,1890.00,PIX,Pago
+1006,2026-04-14,Estante TV 65,450.00,Cartao,Estornado
+1007,2026-04-15,Poltrona do Papai,799.00,PIX,Pago

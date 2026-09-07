@@ -1,0 +1,14 @@
+# Python & Ambientes Virtuais
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Checkpoints e Rascunhos
+.ipynb_checkpoints/
+*copy*.ipynb
+*backup*.ipynb
+
+# IDEs e Editores
+.vscode/
+.idea/

@@ -1,0 +1,8 @@
+id_transacao,data,campanha,produto,valor_conversao,status
+TRX-1001,2026-04-10,Cadeira_Gamer_Promo,Cadeira Gamer RGB,899.90,Aprovado
+TRX-1002,2026-04-10,Sofa_Retratil_Lancamento,Sofá 3 Lugares,1500.00,Aprovado
+TRX-1003,2026-04-11,Cadeira_Gamer_Promo,Cadeira Gamer RGB,899.90,Aprovado
+TRX-1003,2026-04-11,Cadeira_Gamer_Promo,Cadeira Gamer RGB,899.90,Aprovado
+TRX-1004,2026-04-12,Mesa_Jantar_Premium,Mesa de Vidro 6 Lugares,2100.00,Aprovado
+TRX-1005,2026-04-13,Sofa_Retratil_Lancamento,Sofá 3 Lugares,1500.00,Aprovado
+TRX-1006,2026-04-14,Estante_Home_Sale,Estante TV 65,450.00,Aprovado

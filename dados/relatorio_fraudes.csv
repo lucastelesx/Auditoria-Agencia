@@ -1,0 +1,6 @@
+,id_pedido,data_venda,produto_erp,valor_real,metodo_pagamento,status_pagamento,id_transacao,data,campanha,valor_conversao,status
+1,1002.0,2026-04-10,Sofá 3 Lugares,1500.0,Boleto,Cancelado,1002.0,2026-04-10,Sofa_Retratil_Lancamento,1500.0,Aprovado
+4,1004.0,2026-04-12,Mesa de Vidro 6 Lugares,1890.0,PIX,Pago,1004.0,2026-04-12,Mesa_Jantar_Premium,2100.0,Aprovado
+5,,,,,,,1005.0,2026-04-13,Sofa_Retratil_Lancamento,1500.0,Aprovado
+6,1006.0,2026-04-14,Estante TV 65,450.0,Cartao,Estornado,1006.0,2026-04-14,Estante_Home_Sale,450.0,Aprovado
+7,1007.0,2026-04-15,Poltrona do Papai,799.0,PIX,Pago,,,,,
